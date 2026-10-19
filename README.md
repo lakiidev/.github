@@ -1,4 +1,4 @@
-# Hi, I'm Laki 👋
+# Hi, I'm Laki (Luka) 👋
  
 CS student at TVZ Zagreb · Top-10 nationally in competitive programming · Recently shipped production features at Emil Frey Digital.
  
